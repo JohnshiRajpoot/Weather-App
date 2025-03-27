@@ -18,8 +18,7 @@ A simple and stylish weather application that provides real-time weather updates
 - **CSS3** (for styling) 🎨  
 - **Vercel** (for deployment) 🚀  
 
-## 📸 Screenshots  
-![Weather App Screenshot](https://your-screenshot-link.com)  
+
 
 ## 🔧 Installation & Setup  
 
