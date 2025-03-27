@@ -42,7 +42,7 @@ const App = () => {
     } else if (condition === "snow") {
       return "url('https://www.example.com/snowy-bg.jpg')";
     }
-    return "url('https://www.vecteezy.com/photo/35896337-ai-generated-beautiful-blurred-background-image-of-spring-nature-with-a-neatly-trimmed-lawn-surrounded-by-trees-against-a-blue-sky-with-clouds-on-a-bright-sunny-day')"; // Default background
+    return "url('https://www.vecteezy.com/photo/35896337-ai-generated-beautiful-blurred-background-image-of-spring-nature-with-a-neatly-trimmed-lawn-surrounded-by-trees-against-a-blue-sky-with-clouds-on-a-bright-sunny-day')"; 
   };
 
   // Set background image based on weather
