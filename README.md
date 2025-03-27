@@ -11,13 +11,13 @@ A simple and stylish weather application that provides real-time weather updates
 ## 🌍 Live Demo  
 🔗 **Deployed Link**: [Weather App](https://weather-app-u2ah.vercel.app/)  
 
+
 ## 🛠 Tech Stack  
 - **React.js** ⚛️  
 - **Vite** ⚡  
 - **Axios** (for API requests) 🔗  
 - **CSS3** (for styling) 🎨  
 - **Vercel** (for deployment) 🚀  
-
 
 
 ## 🔧 Installation & Setup  
